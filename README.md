@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @paxchal
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate with anyone ahead of me in this field.
+- 📫 How to reach me Email: dumepaschal@gmail.com
